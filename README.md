@@ -6,7 +6,7 @@
 🎨 Working with Figma on web design and development \
 💬 Ask me about web development
 
-# Tech Stack
+# 👨‍💻 Tech Stack
 
 <p float="left">
   <img src="https://github.com/Daanieeel/Daanieeel/assets/96653085/4b550f78-591c-465e-88bb-4891c8d73ea5" width="25%" />
@@ -16,7 +16,7 @@
   <img src="https://github.com/Daanieeel/Daanieeel/assets/96653085/e4b56567-6e80-4678-8b86-c40ef9155460" width="50%" />
 </p>
 
-## Frameworks
+## 🛠️ Frameworks
 
 <p float="left">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" width="20%" />
