@@ -1,9 +1,9 @@
 # 📌 About Me:
 
-💼 Currently working on @Academi-fy
+💼 Currently working on @Academi-fy \
 🎮 Developer for @NextGen-eSports
 
-🎨 Working with Figma on web design and development
+🎨 Working with Figma on web design and development \
 💬 Ask me about web development
 
 # Tech Stack
