@@ -36,5 +36,12 @@
   <img width="50px" height="50px" class="prisma-orm" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/18e0e8f5-73db-4089-921f-a982a6566d87" />
 </p>
 
-
-
+#### Tools
+<p>
+  <img width="50px" height="50px" class="git" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/d98b7fa8-6381-4113-bf19-23b651cf5075" />
+  <img width="50px" height="50px" class="github" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/b6b81eaa-7542-4d95-aa1a-767abccbef2e" />
+  <img width="50px" height="50px" class="jetbrains" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2a8d63e3-5824-4906-8a1b-8de49a052007" />
+  <img width="50px" height="50px" class="vs-code" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2e27ba00-cae1-4687-b78f-6a110c7467b9" />
+  <img width="50px" height="50px" class="figma" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/f0a6427b-63a0-42ce-94cb-65962d5ea646" />
+  <img width="50px" height="50px" class="docker" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/184228d3-ec4a-4db2-98af-a125a26b1748" />
+</p>
