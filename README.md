@@ -8,7 +8,7 @@
 
 # 👨‍💻 Tech Stack
 
-#### Backend 💾
+#### 💾 Backend 
 <p>
   <img width="50px" height="50px" class="node-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/44531564-fef9-46a2-8b7b-512b4d86c0f7" />
   <img width="50px" height="50px" class="express-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/7e8165eb-cfd3-4e54-9694-64c1eeef2494" />
@@ -17,7 +17,7 @@
   <img width="50px" height="50px" class="redis" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/69811d30-8296-4bc8-96c3-793534d0a473" />
 </p>
 
-#### Frontend 🖼️
+#### 🖼️ Frontend 
 <p>
   <img width="50px" height="50px" class="javascript" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2b230f27-4681-4853-8f7d-6cb2808e0835" />
   <img width="50px" height="50px" class="typescript" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/91689dea-6b47-425c-a5bc-506ca3386241" />
@@ -27,7 +27,7 @@
   <img width="50px" height="50px" class="nuxt-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/8263e9de-b161-413c-af47-ee9dc092e6e8" />
 </p>
 
-#### Database 🗂️
+#### 🗂️ Database 
 <p>
   <img width="50px" height="50px" class="mongo-db" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/97eda427-bc75-4738-bea2-9fbd412f24c1" />
   <img width="50px" height="50px" class="mysql" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/0161a030-5295-41c2-8e1c-b8692867000d" />
@@ -36,7 +36,7 @@
   <img width="50px" height="50px" class="prisma-orm" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/18e0e8f5-73db-4089-921f-a982a6566d87" />
 </p>
 
-#### Tools 🛠️
+#### 🛠️ Tools 
 <p>
   <img width="50px" height="50px" class="git" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/d98b7fa8-6381-4113-bf19-23b651cf5075" />
   <img width="50px" height="50px" class="github" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/b6b81eaa-7542-4d95-aa1a-767abccbef2e" />
