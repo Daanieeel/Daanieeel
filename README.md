@@ -46,6 +46,7 @@
   <img width="50px" height="50px" class="vs-code" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2e27ba00-cae1-4687-b78f-6a110c7467b9" alt="Visual Studio Code" />
   <img width="50px" height="50px" class="figma" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/f0a6427b-63a0-42ce-94cb-65962d5ea646" alt="Figma" />
   <img width="50px" height="50px" class="docker" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/184228d3-ec4a-4db2-98af-a125a26b1748" alt="Docker" />
+  <img width="50px" height="50px" class="github-copilot" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/5b3e2204-7667-41a4-b689-f63ccc4dba5b" alt="GitHub Copilot" />
 </p>
 
 ## 📚 ... plans for the future
