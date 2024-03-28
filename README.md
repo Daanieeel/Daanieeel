@@ -46,4 +46,11 @@
   <img width="50px" height="50px" class="docker" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/184228d3-ec4a-4db2-98af-a125a26b1748" />
 </p>
 
+## 📚 ... plans for the future
+<p>
+  <img width="50px" height="50px" class="xcode" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/198ad4cf-5ac2-4ea4-9ef7-355b0e100b18" />
+  <img width="50px" height="50px" class="swift" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/5939c073-9012-4085-9f71-e990bffa329b" />
+  <img width="50px" height="50px" class="flutter" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/fb3b6bc3-af39-4228-a818-2505b00f5f03" />
+  <img width="50px" height="50px" class="react" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" />
+</p>
 
