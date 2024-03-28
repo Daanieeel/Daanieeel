@@ -8,7 +8,7 @@
 
 # 🎙️ Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/daniel-dopatka-86724a295/">
+  <a href="https://www.linkedin.com/in/daniel-dopatka-86724a295/" blank="true">
      <img width="50px" height="50px" class="linked-in" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2d9a39ea-a3ec-4ef6-aa14-f755dba31f23" />
   </a>
 </p>
