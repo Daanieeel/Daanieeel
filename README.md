@@ -1,15 +1,4 @@
-<div>
-  <h1 align="center">Hi 👋, I'm Daniel</h1>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/daniel-dopatka-86724a295/" target="_blank">
-     <img width="50px" height="50px" class="linked-in" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2d9a39ea-a3ec-4ef6-aa14-f755dba31f23" />
-    </a>
-    <a href="https://www.twitch.tv/daanieeell" target="_blank">
-       <img width="30px" height="auto" class="twitch" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/91ef6c15-196a-4ea8-bc34-a1ebf80eb36f" />
-    </a>
-  </p>
-</div>
-
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 💼 Currently working on [@Academi-fy](https://github.com/Academi-fy) \
 🎮 Developer for [@NextGen-eSports](https://github.com/NextGen-eSports)
