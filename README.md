@@ -16,7 +16,7 @@
   <img width="50px" height="50px" class="java" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a1792dec-f1a0-4255-9035-6a2566b1de76" />
   <img width="50px" height="50px" class="redis" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/69811d30-8296-4bc8-96c3-793534d0a473" />
   <img width="50px" height="50px" class="discord-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/6f5f6acc-32d7-4b64-a5e2-e3fd29755e07" />
-  <img width="50px" height="50px" class="minecraft-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/6b36bf49-f970-497f-afbd-430ee540478a" />
+  <img width="50px" height="50px" class="minecraft-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/1e63e09d-6114-4e4a-a278-a719ea3bfd4f" />
 </p>
 
 #### 🖼️ Frontend 
