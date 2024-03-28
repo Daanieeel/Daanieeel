@@ -8,6 +8,7 @@
 
 # 👨‍💻 Tech Stack
 
+
 #### 💾 Backend 
 <p>
   <img width="50px" height="50px" class="node-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/44531564-fef9-46a2-8b7b-512b4d86c0f7" />
@@ -15,7 +16,7 @@
   <img width="50px" height="50px" class="nest-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a3c7209d-92d9-4b4b-af7e-5a9b46b67e79" />
   <img width="50px" height="50px" class="java" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a1792dec-f1a0-4255-9035-6a2566b1de76" />
   <img width="50px" height="50px" class="redis" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/69811d30-8296-4bc8-96c3-793534d0a473" />
-  <img width="50px" height="50px" class="discord-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/cb6268a7-118c-48af-b608-83b9fe1763b2" />
+  <img width="50px" height="50px" class="discord-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/6f5f6acc-32d7-4b64-a5e2-e3fd29755e07" />
 </p>
 
 #### 🖼️ Frontend 
