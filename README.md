@@ -14,6 +14,7 @@
   <img width="50px" height="50px" class="express-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/7e8165eb-cfd3-4e54-9694-64c1eeef2494" />
   <img width="50px" height="50px" class="nest-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a3c7209d-92d9-4b4b-af7e-5a9b46b67e79" />
   <img width="50px" height="50px" class="java" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a1792dec-f1a0-4255-9035-6a2566b1de76" />
+  <img width="50px" height="50px" class="redis" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/69811d30-8296-4bc8-96c3-793534d0a473" />
 </p>
 
 #### Frontend
@@ -34,5 +35,6 @@
   <img width="50px" height="50px" class="graphql" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/809cfcaf-bd84-4fbe-903a-18557788fce9" />
   <img width="50px" height="50px" class="prisma-orm" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/18e0e8f5-73db-4089-921f-a982a6566d87" />
 </p>
+
 
 
