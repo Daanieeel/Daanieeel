@@ -3,7 +3,7 @@
 💼 Currently working on [@Academi-fy](https://github.com/Academi-fy) \
 🎮 Developer for [@NextGen-eSports](https://github.com/NextGen-eSports)
 
-🎨 Working with Figma on web design and development \
+🎨 Working on web design and development \
 💬 Ask me about web development
 
 # 👨‍💻 Tech Stack
