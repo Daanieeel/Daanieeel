@@ -6,6 +6,13 @@
 🎨 Working with Figma on web design and development \
 💬 Ask me about web development
 
+# 🎙️ Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/daniel-dopatka-86724a295/">
+     <img width="50px" height="50px" class="linked-in" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/2d9a39ea-a3ec-4ef6-aa14-f755dba31f23" />
+  </a>
+</p>
+
 # 👨‍💻 Tech Stack
 
 #### Backend
@@ -45,3 +52,5 @@
   <img width="50px" height="50px" class="figma" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/f0a6427b-63a0-42ce-94cb-65962d5ea646" />
   <img width="50px" height="50px" class="docker" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/184228d3-ec4a-4db2-98af-a125a26b1748" />
 </p>
+
+
