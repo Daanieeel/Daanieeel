@@ -2,6 +2,7 @@
 
 💼 Currently working on [@Academi-fy](https://github.com/Academi-fy) \
 🎮 Developer for [@NextGen-eSports](https://github.com/NextGen-eSports)
+🎨 Designing for [ModLog Twitch Bot](https://modlog.tv/)
 
 🎨 Working on web design and development \
 💬 Ask me about web development
