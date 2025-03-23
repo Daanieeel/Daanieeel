@@ -28,6 +28,7 @@
   <img width="50px" height="50px" class="css" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/39a80cc3-f08d-4b30-9292-59e2abeff5c7" alt="CSS" />
   <img width="50px" height="50px" class="vue-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/33b3b6ab-6a39-4d21-8358-3a5fa801db18" alt="Vue.js" />
   <img width="50px" height="50px" class="nuxt-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/8263e9de-b161-413c-af47-ee9dc092e6e8" alt="Nuxt.js" />
+    <img width="50px" height="50px" class="react" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" />
 </p>
 
 #### 🗂️ Database 
@@ -55,6 +56,5 @@
   <img width="50px" height="50px" class="xcode" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/198ad4cf-5ac2-4ea4-9ef7-355b0e100b18" alt="Xcode" />
   <img width="50px" height="50px" class="swift" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/5939c073-9012-4085-9f71-e990bffa329b" alt="Swift" />
   <img width="50px" height="50px" class="flutter" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/fb3b6bc3-af39-4228-a818-2505b00f5f03" alt="Flutter" />
-  <img width="50px" height="50px" class="react" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" />
 </p>
 
