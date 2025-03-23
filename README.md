@@ -16,8 +16,6 @@
   <img width="50px" height="50px" class="nest-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a3c7209d-92d9-4b4b-af7e-5a9b46b67e79" alt="Nest.js" />
   <img width="50px" height="50px" class="java" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a1792dec-f1a0-4255-9035-6a2566b1de76" alt="Java" />
   <img width="50px" height="50px" class="redis" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/69811d30-8296-4bc8-96c3-793534d0a473" alt="redis" />
-  <img width="50px" height="50px" class="discord-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/6f5f6acc-32d7-4b64-a5e2-e3fd29755e07" alt="Discord Developer" />
-  <img width="50px" height="50px" class="minecraft-developer" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/1e63e09d-6114-4e4a-a278-a719ea3bfd4f" alt="Minecraft Developer" />
 </p>
 
 #### 🖼️ Frontend 
@@ -29,6 +27,7 @@
   <img width="50px" height="50px" class="vue-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/33b3b6ab-6a39-4d21-8358-3a5fa801db18" alt="Vue.js" />
   <img width="50px" height="50px" class="nuxt-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/8263e9de-b161-413c-af47-ee9dc092e6e8" alt="Nuxt.js" />
     <img width="50px" height="50px" class="react" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" />
+  <img width="50px" height="50px" class="nextjs" src="https://github.com/user-attachments/assets/3731bf59-a77c-4b08-ab0f-1e6c352093d4" alt="Next.js" />
 </p>
 
 #### 🗂️ Database 
