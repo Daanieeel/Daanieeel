@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
 💼 Currently working on [@Academi-fy](https://github.com/Academi-fy) \
-🎮 Developer for [@NextGen-eSports](https://github.com/NextGen-eSports) \
 🎨 Designing for [ModLog Twitch Bot](https://github.com/ModLogTV)
 
 🦺 Working on web design and development \
