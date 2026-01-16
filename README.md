@@ -22,14 +22,18 @@
     <tr>
       <td><h4>🖼️ Frameworks</h4></td>
       <td>
+        <h5>Backend</h5>
         <img width="50px" height="50px" class="express-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/7e8165eb-cfd3-4e54-9694-64c1eeef2494" alt="express.js" />
         <img width="50px" height="50px" class="nest-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/a3c7209d-92d9-4b4b-af7e-5a9b46b67e79" alt="Nest.js" />
         <img width="50px" height="50px" alt="elysiajs" src="https://github.com/user-attachments/assets/59836254-cd64-4819-9d78-4f1413c4b16f" />
+        <br>
+        <h5>Frontend</h5>
         <img width="50px" height="50px" class="vue-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/33b3b6ab-6a39-4d21-8358-3a5fa801db18" alt="Vue.js" />
         <img width="50px" height="50px" alt="angular" src="https://github.com/user-attachments/assets/8773b716-f084-49e6-ab7c-b8a68e1df2b9" />
         <img width="50px" height="50px" class="nuxt-js" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/8263e9de-b161-413c-af47-ee9dc092e6e8" alt="Nuxt.js" />
         <img width="50px" height="50px" class="react" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" />
         <img width="50px" height="50px" class="nextjs" src="https://github.com/user-attachments/assets/3731bf59-a77c-4b08-ab0f-1e6c352093d4" alt="Next.js" />
+        <img width="50px" height="50px" alt="tailwindcss" src="https://github.com/user-attachments/assets/7c53c262-d9a9-48d2-91cb-d89b85b7bfba" />
       </td>
     </tr>
     <tr>
