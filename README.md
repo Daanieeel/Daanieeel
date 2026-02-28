@@ -32,6 +32,7 @@
     <tr>
       <td valign="middle"><strong>Frontend</strong></td>
       <td valign="middle">
+        <img width="50px" height="50px" src="https://github.com/user-attachments/assets/8773b716-f084-49e6-ab7c-b8a68e1df2b9" alt="angular" />
         <img width="50px" height="50px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/33b3b6ab-6a39-4d21-8358-3a5fa801db18" alt="Vue.js" />
         <img width="50px" height="50px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/8263e9de-b161-413c-af47-ee9dc092e6e8" alt="Nuxt.js" />
         <img width="50px" height="50px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" />
@@ -86,7 +87,6 @@
     <tr>
       <td><h4>📚 ... plans for the future</h4></td>
       <td>
-        <img width="50px" height="50px" src="https://github.com/user-attachments/assets/8773b716-f084-49e6-ab7c-b8a68e1df2b9" alt="angular" />
         <img width="50px" height="50px" alt="z/Os" src="https://github.com/user-attachments/assets/0cc6a018-62ab-407e-93e7-b8b1c3c917aa" />
         <img width="50px" height="50px" alt="PL/I" src="https://github.com/user-attachments/assets/f253d66f-c843-465c-b7d0-0c51f33ea7ed" />
         <img width="50px" height="50px" alt="db2" src="https://github.com/user-attachments/assets/6ba385ab-6eed-4f44-924d-65e005d73efc" />
