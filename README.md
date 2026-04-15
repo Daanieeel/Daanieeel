@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-💼 Student @ [HUK-COBURG](http://www.huk-coburg.de) \
-🎨 Designing & developing for [ModLog Twitch Bot](https://modlog.tv)
+💼 Student @ <a href="http://www.huk-coburg.de">HUK-COBURG</a> <br />
+🎨 Designing & developing for <a href="(https://modlog.tv">ModLog Twitch Bot</a>
 <h2>👨‍💻 Tech Stack</h2>
 <table>
    <tbody>
