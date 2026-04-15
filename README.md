@@ -18,7 +18,7 @@
       </tr>
       <tr>
          <td>
-            <h4>🖼️ Frameworks</h4>
+            <h4>🖼️ Frameworks<br/>(TS Fullstack)</h4>
          </td>
          <td>
             <table border="1" cellpadding="10" cellspacing="0">
