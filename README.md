@@ -36,7 +36,6 @@
                      <td valign="middle">
                         <img width="75px" height="75px" src="https://github.com/user-attachments/assets/8773b716-f084-49e6-ab7c-b8a68e1df2b9" alt="angular" />
                         <img width="75px" height="75px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/33b3b6ab-6a39-4d21-8358-3a5fa801db18" alt="Vue.js" />
-                        <img width="75px" height="75px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/8263e9de-b161-413c-af47-ee9dc092e6e8" alt="Nuxt.js" />
                         <img width="75px" height="75px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" />
                         <img width="75px" height="75px" src="https://github.com/user-attachments/assets/3731bf59-a77c-4b08-ab0f-1e6c352093d4" alt="Next.js" />
                         <img width="75px" height="75px" src="https://github.com/user-attachments/assets/7c53c262-d9a9-48d2-91cb-d89b85b7bfba" alt="tailwindcss" />
