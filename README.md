@@ -104,7 +104,7 @@
                   <td align="center"><img width="35px" height="35px" alt="aws" src="https://github.com/user-attachments/assets/c510ab3e-a54c-463e-8ecb-30237aa68481" /><br/><sub>AWS</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="z/Os" src="https://github.com/user-attachments/assets/0cc6a018-62ab-407e-93e7-b8b1c3c917aa" /><br/><sub>z/OS</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="PL/I" src="https://github.com/user-attachments/assets/f253d66f-c843-465c-b7d0-0c51f33ea7ed" /><br/><sub>PL/I</sub></td>
-                  <td align="center"><img width="35px" height="35px" alt="db2" src="https://github.com/user-attachments/assets/6ba385ab-6eed-4f44-924d-65e005d73efc" /><br/><sub>Db2</sub></td>
+                  <td align="center"><img width="35px" height="35px" alt="db2" src="https://github.com/user-attachments/assets/6ba385ab-6eed-4f44-924d-65e005d73efc" /><br/><sub>DB2</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="rexx" src="https://github.com/user-attachments/assets/1da59762-31a9-4fac-8758-049191274c7a" /><br/><sub>REXX</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="jcl" src="https://github.com/user-attachments/assets/c9e807ae-0f1e-40d5-84a2-f4fd0a678943" /><br/><sub>JCL</sub></td>
                </tr>
