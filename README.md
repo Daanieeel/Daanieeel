@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-💼 Student @ <a href="http://www.huk-coburg.de">HUK-COBURG</a> <br />
+💼 Student @ <a href="https://www.huk-coburg.de">HUK-COBURG</a> <br />
 🎨 Designing & developing for <a href="https://modlog.tv">ModLog Twitch Bot</a> <br />
 👨‍💻 Creator & Maintainer of <a href="https://github.com/Daanieeel/gitbud">GitBud</a> (Free & Open Source Git Client)
 <h2>👨‍💻 Tech Stack</h2>
