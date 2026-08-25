@@ -100,7 +100,7 @@
          <td>
             <table>
                <tr>
-                  <td align="center"><img width="35px" height="35px" alt="Adobe Experience Manager" src="https://github.com/user-attachments/assets/5ab5cf7f-99cd-4042-944f-64095250cffd" /><br/><sub>Adobe Experience Manager</sub></td>
+                  <td align="center"><img width="35px" height="35px" alt="Adobe Experience Manager" src="https://github.com/user-attachments/assets/5ab5cf7f-99cd-4042-944f-64095250cffd" /><br/><sub>Adobe EM</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="aws" src="https://github.com/user-attachments/assets/c510ab3e-a54c-463e-8ecb-30237aa68481" /><br/><sub>AWS</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="z/Os" src="https://github.com/user-attachments/assets/0cc6a018-62ab-407e-93e7-b8b1c3c917aa" /><br/><sub>z/OS</sub></td>
                   <td align="center"><img width="35px" height="35px" alt="PL/I" src="https://github.com/user-attachments/assets/f253d66f-c843-465c-b7d0-0c51f33ea7ed" /><br/><sub>PL/I</sub></td>
