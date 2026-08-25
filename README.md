@@ -48,7 +48,7 @@
                               <td align="center"><img width="35px" height="35px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/33b3b6ab-6a39-4d21-8358-3a5fa801db18" alt="Vue.js" /><br/><sub>Vue.js</sub></td>
                               <td align="center"><img width="35px" height="35px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/77a9be17-27f9-44f7-95e6-d2fbcabac83b" alt="React" /><br/><sub>React</sub></td>
                               <td align="center"><img width="35px" height="35px" src="https://github.com/user-attachments/assets/3731bf59-a77c-4b08-ab0f-1e6c352093d4" alt="Next.js" /><br/><sub>Next.js</sub></td>
-                              <td align="center"><img width="35px" height="35px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/7c53c262-d9a9-48d2-91cb-d89b85b7bfba" alt="tailwindcss" /><br/><sub>Tailwind CSS</sub></td>
+                              <td align="center"><img width="35px" height="35px" src="https://github.com/Daanieeel/Daanieeel/assets/96653085/7c53c262-d9a9-48d2-91cb-d89b85b7bfba" alt="tailwindcss" /><br/><sub>Tailwind</sub></td>
                               <td align="center"><img width="35px" height="35px" alt="expo" src="https://github.com/user-attachments/assets/abdc3dff-9565-4833-bbe3-a3573b6d97af" /><br/><sub>Expo</sub></td>
                               <td align="center"><img width="35px" height="35px" alt="tauri" src="https://github.com/user-attachments/assets/b69aa543-c096-41fb-95c5-58df097dd1c6" /><br/><sub>Tauri</sub></td>
                            </tr>
