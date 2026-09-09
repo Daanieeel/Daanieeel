@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 💼 Student @ <a href="https://www.huk-coburg.de">HUK-COBURG</a> <br />
 🎨 Designing & developing for <a href="https://modlog.tv">ModLog Twitch Bot</a> <br />
-👨‍💻 Creator & Maintainer of <a href="https://github.com/Daanieeel/gitbud">GitBud</a> (Free & Open Source Git Client)
+👨‍💻 Creator & Maintainer for 
+<ul>
+   <li><a href="https://github.com/Daanieeel/gitbud">GitBud</a> (Free & Open Source Git Client)</li>
+   <li><a href="https://github.com/ModLogTV/better-cms">BetterCMS</a> (Open Source self-hosted Content Management System)</li>
+</ul>
+
 <h2>👨‍💻 Tech Stack</h2>
 <table>
    <tbody>
