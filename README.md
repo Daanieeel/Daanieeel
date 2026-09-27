@@ -5,6 +5,7 @@
 <ul>
    <li><a href="https://github.com/Daanieeel/gitbud">GitBud</a> (Free & Open Source Git Client)</li>
    <li><a href="https://github.com/ModLogTV/better-cms">BetterCMS</a> (Open Source self-hosted Content Management System)</li>
+   <li><a href="https://github.com/Daanieeel/nookly">Nookly</a> (A modular, open source desktop app for organizing your life.)</li>
 </ul>
 
 <h2>👨‍💻 Tech Stack</h2>
